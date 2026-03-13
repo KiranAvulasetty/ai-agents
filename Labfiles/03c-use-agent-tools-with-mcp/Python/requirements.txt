@@ -3,4 +3,5 @@ azure-ai-agents
 mcp 
 python-dotenv 
 azure-identity 
-uvicorn openai
+uvicorn
+openai
