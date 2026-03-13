@@ -1,6 +1,6 @@
-python-dotenv
-azure-identity
-azure-ai-projects==2.0.0b1
-uvicorn
-openai
-mcp
+azure-ai-projects 
+azure-ai-agents 
+mcp 
+python-dotenv 
+azure-identity 
+uvicorn openai
